@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@truffle/contract": "^4.6.31",
+    "create-react-app": "^5.0.1",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "web3": "^4.3.0"
+  }
+}
